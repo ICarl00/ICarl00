@@ -9,10 +9,9 @@ With a background in **web design and development**, I combine creativity with t
 
 ## 🚀 About Me
 
-- 🌱 Started my development journey in **2022** and have been continuously learning.
+- 🌱 Started my development journey in **2020** and have been continuously learning.
 - 💼 Skilled in **front-end development, UI/UX design, and system development**.
-- ⚡ Creator of **Cole and Cash**, a POS system with inventory management.
-- 🎯 Committed to **clean code, responsive design, and great user experience**.
+- 🎯 Committed to **code, responsive design, and great user experience**.
 - 🧩 Strong believer in **diligence, persistence, and continuous growth**.
 
 ---
@@ -39,18 +38,10 @@ With a background in **web design and development**, I combine creativity with t
 
 ---
 
-## 📈 GitHub Stats
-
-![Ricarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICarl00&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ICarl00&layout=compact&theme=tokyonight)
-
----
 
 ## 📌 Featured Projects
 
-- [**Cole and Cash (POS System)**](https://github.com/ICarl00/cole-and-cash) – Inventory management + sales tracking
-- [**Dental Clinic System**](https://github.com/ICarl00/dental-clinic) – Appointment booking & patient records with data analytics visuals
-- [**Metrika**](https://github.com/ICarl00/metrika) – Estimation of material costing for constructions
+- [**Cabantan Genorimo**]([https://github.com/ICarl00/dental-clinic](https://cabanatan.vercel.app/)) – Appointment booking & patient records with data analytics visuals
 
 ---
 
